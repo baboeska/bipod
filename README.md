@@ -4,6 +4,9 @@
 
 Batch-sort large image libraries into folders by detected object class.
 
+Windows and Linux compatible.
+May take some teeaking for unique hardware.
+
 Please read readme in release zip file.
 
 NVIDIA GPU: bipod-rtx — RF-DETR + TensorRT https://github.com/baboeska/bipod-rtx with Linux install script.
