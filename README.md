@@ -5,7 +5,7 @@
 Batch-sort large image libraries into folders by detected object class.
 
 Windows and Linux compatible.
-May take some teeaking for unique hardware.
+May take some tweaking for unique hardware.
 
 Please read readme in release zip file.
 
